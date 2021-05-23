@@ -1,0 +1,11 @@
+{
+  "name": "lifestyle-balancer",
+  "version": "1.0.0",
+  "description": "simple triple switch widget",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgi Yordanov",
+  "license": "ISC"
+}
